@@ -36,6 +36,3 @@ async def say(ctx, *, arg):
     await ctx.send (f"{arg}\n"
     "** **\n"
     f"{ctx.author.mention}\n")
-
-
-client.run('ODE4MzU5MjIxOTU1MTk5MDM2.YEW6ag.cHHE4y6Dxd_sDbW9ol-bUdoFsB4')
